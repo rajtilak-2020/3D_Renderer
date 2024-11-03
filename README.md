@@ -23,8 +23,8 @@ Object3D is a simple 3D rendering demo built using Java Swing. The project displ
 1. **Clone the Repository:**
 
     ```bash
-    [git clone https://github.com/yourusername/Object3D.git
-    cd Object3D](https://github.com/Rajtilak2020/Java_Based_3D-Renderer.git)
+    [git clone https://github.com/rajtilak-2020/Object3D.git
+    cd Object3D](https://github.com/rajtilak-2020/Java_Based_3D-Renderer.git)
     ```
 
 2. **Compile the Java Files:**
